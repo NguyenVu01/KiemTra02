@@ -1,0 +1,11 @@
+D:\anh trai\Code C#\KiemTra02\bin\Debug\KiemTra02.exe.config
+D:\anh trai\Code C#\KiemTra02\bin\Debug\KiemTra02.exe
+D:\anh trai\Code C#\KiemTra02\bin\Debug\KiemTra02.pdb
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.csproj.AssemblyReference.cache
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.frmNhanVien.resources
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.Properties.Resources.resources
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.csproj.GenerateResource.cache
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.csproj.CoreCompileInputs.cache
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.exe
+D:\anh trai\Code C#\KiemTra02\obj\Debug\KiemTra02.pdb
